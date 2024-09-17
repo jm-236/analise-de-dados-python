@@ -24,7 +24,3 @@ Este projeto foi desenvolvido durante o curso da Hashtag Treinamentos para prati
 
 ## Agradecimentos
 Projeto desenvolvido durante o curso da Hashtag Treinamentos.
-
----
-
-Esse texto explica o propósito do projeto e como utilizá-lo.
